@@ -1,0 +1,1106 @@
+[
+    [
+        "2020-04-16",
+        {
+            "Jumlah Laboratorium": 32,
+            "Jumlah spesimen yang diperiksa*": 39706,
+            "Jumlah kasus yang diperiksa spesimen": 34975,
+            "Hasil Positif": 5516,
+            "Hasil negatif": 29459,
+            "ODP": 169446,
+            "PDP": 11873,
+            "Konfirmasi Covid-19": 5516,
+            "Kasus Sembuh": 548,
+            "Kasus Meninggal": 496,
+            "Provinsi terdampak": 34,
+            "Kab/Kota terdampak": 202
+        }
+    ],
+    [
+        "2020-04-22",
+        {
+            "Jumlah Laboratorium": 38,
+            "Jumlah spesimen yang diperiksa*": 55732,
+            "Jumlah kasus yang diperiksa spesimen": 47361,
+            "Hasil Positif": 7418,
+            "Hasil negatif": 39943,
+            "ODP": 193571,
+            "PDP": 17754,
+            "Konfirmasi Covid-19": 7418,
+            "Kasus Sembuh": 908,
+            "Kasus Meninggal": 634,
+            "Provinsi terdampak": 34,
+            "Kab/Kota terdampak": 263
+        }
+    ],
+    [
+        "2020-05-02",
+        {
+            "Jumlah Laboratorium": 46,
+            "Jumlah spesimen yang diperiksa*": 107943,
+            "Jumlah kasus yang diperiksa spesimen": 79868,
+            "Hasil Positif": 10843,
+            "Hasil negatif": 69025,
+            "ODP": 235035,
+            "PDP": 22545,
+            "Konfirmasi Covid-19": 10843,
+            "Kasus Sembuh": 1665,
+            "Kasus Meninggal": 831
+        }
+    ],
+    [
+        "2020-05-04",
+        {
+            "Jumlah Laboratorium": 46,
+            "Jumlah spesimen yang diperiksa*": 116861,
+            "Jumlah kasus yang diperiksa spesimen": 86061,
+            "Hasil Positif": 11587,
+            "Hasil negatif": 74474,
+            "ODP": 238178,
+            "PDP": 24020,
+            "Konfirmasi Covid-19": 11587,
+            "Kasus Sembuh": 1954,
+            "Kasus Meninggal": 864
+        }
+    ],
+    [
+        "2020-05-05",
+        {
+            "Jumlah Laboratorium": 47,
+            "Jumlah spesimen yang diperiksa\u2122": 121547,
+            "Jumlah kasus yang diperiksa spesimen": 88924,
+            "Hasil Positif": 12071,
+            "Hasil negatif": 76853,
+            "oop": 239226,
+            "PoP": 26408,
+            "Konfirmasi Covid-19": 12071,
+            "Kasus Sembuh": 2197,
+            "kasus Meninggal": 872,
+            "Provinsi terdampak": 34,
+            "kab/Kota terdampak": 335
+        }
+    ],
+    [
+        "2020-05-06",
+        {}
+    ],
+    [
+        "2020-05-07",
+        {}
+    ],
+    [
+        "2020-05-08",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 53,
+            "Jumlah Laboratorium (TCM)": 1,
+            "Jumlah spesimen yang diperiksa*": 143781,
+            "RT-PCR": 143453,
+            "TCM": 328,
+            "Jumlah kasus yang diperiksa spesimen": 103361,
+            "Hasil Positif": 13112,
+            "Hasil negatif": 90249,
+            "oop": 244480,
+            "PoP": 29087,
+            "Konfirmasi Covid-19": 13112,
+            "kasus Sembuh": 2494,
+            "kasus Meninggal": 943,
+            "Provinsi terdampak": 34,
+            "kab/Kota terdampak": 356
+        }
+    ],
+    [
+        "2020-05-09",
+        {}
+    ],
+    [
+        "2020-05-10",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 57,
+            "Jumlah Laboratorium (TCM)": 1,
+            "Jumlah spesimen yang diperiksa*": 158273,
+            "RT-PCR": 157769,
+            "TCM": 504,
+            "Jumlah kasus yang diperiksa spesimen": 113452,
+            "Hasil Positif": 14032,
+            "Hasil negatit": 99420,
+            "oop": 248690,
+            "PoP": 30317,
+            "Konfirmasi Covid-19": 14032,
+            "kasus Sembuh": 2698,
+            "kasus Meninggal": 973,
+            "Provinsi terdampak": 34,
+            "kab/Kota terdampak": 373
+        }
+    ],
+    [
+        "2020-05-11",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 57,
+            "Jumlah Laboratorium (TCM)": 1,
+            "Jumlah spesimen yang diperiksa*": 161351,
+            "RT-PCR": 160768,
+            "TCM": 583,
+            "Jumlah kasus yang diperiksa spesimen": 116358,
+            "Hasil Positif": 14265,
+            "Hasil negatif": 102093,
+            "oop": 249105,
+            "PoP": 31994,
+            "Konfirmasi Covid-19": 14265,
+            "kasus Sembuh": 2881,
+            "kasus Meninggal": 991,
+            "Provinsi terdampak": 34,
+            "kab/Kota terdampak": 373
+        }
+    ],
+    [
+        "2020-05-12",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 57,
+            "Jumlah Laboratorium (TCM)": 3,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 165128,
+                "RT-PCR": 164526,
+                "TCM": 602
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 119728,
+                "RT-PCR": 119378,
+                "TCM": 350
+            },
+            "Hasil Positif": {
+                "total": 14749,
+                "RT-PCR": 14557,
+                "TCM": 192
+            },
+            "Hasil negatif": {
+                "total": 104979,
+                "RT-PCR": 104821,
+                "TCM": 158
+            },
+            "oop": 251861,
+            "PoP": 32147,
+            "Konfirmasi Covid-19": 14749,
+            "kasus Sembuh": 3063,
+            "Kasus Meninggal": 1007
+        }
+    ],
+    [
+        "2020-05-13",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 57,
+            "Jumlah Laboratorium (TCM)": 7,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 169195,
+                "RT-PCR": 168557,
+                "TCM": 638
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 123572,
+                "RT-PCR": 123197,
+                "TCM": 375
+            },
+            "Hasil Positif": {
+                "total": 15438,
+                "RT-PCR": 15243,
+                "TCM": 195
+            },
+            "Hasil negatif": {
+                "total": 108134,
+                "RT-PCR": 107954,
+                "TCM": 180
+            },
+            "opp": 256299,
+            "PoP": 33042,
+            "Konfirmasi Covid-19": 15438,
+            "Kasus Sembuh": 3287,
+            "Kasus Meninggal": 1028
+        }
+    ],
+    [
+        "2020-05-14",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 60,
+            "Jumlah Laboratorium (TCM)": 8,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 173690,
+                "RT-PCR": 172971,
+                "TCM": 719
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 127813,
+                "RT-PCR": 127392,
+                "TCM": 421
+            },
+            "Hasil Positif": {
+                "total": 16006,
+                "RT-PCR": 15794,
+                "TCM": 212
+            },
+            "Hasil negatif": {
+                "total": 111807,
+                "RT-PCR": 111598,
+                "TCM": 209
+            },
+            "ODP": 258639,
+            "PDP": 33672,
+            "Konfirmasi Covid-19": 16006,
+            "Kasus Sembuh": 3518,
+            "Kasus Meninggal": 1043
+        }
+    ],
+    [
+        "2020-05-15",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 61,
+            "Jumlah Laboratorium (TCM)": 9,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 178602,
+                "RT-PCR": 177753,
+                "TCM": 849
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 132060,
+                "RT-PCR": 131574,
+                "TCM": 486
+            },
+            "Hasil Positif": {
+                "total": 16496,
+                "RT-PCR": 16272,
+                "TCM": 224
+            },
+            "Hasil negatif": {
+                "total": 115564,
+                "RT-PCR": 115302,
+                "TCM": 262
+            },
+            "opp": 262919,
+            "PDP": 34360,
+            "Konfirmasi Covid-19": 16496,
+            "Kasus Sembuh": 3803,
+            "Kasus Meninggal": 1076
+        }
+    ],
+    [
+        "2020-05-16",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 61,
+            "Jumlah Laboratorium (TCM)": 10,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 182818,
+                "RT-PCR": 181890,
+                "TCM": 928
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 135726,
+                "RT-PCR": 135193,
+                "TCM": 533
+            },
+            "Hasil Positif": {
+                "total": 17025,
+                "RT-PCR": 16798,
+                "TCM": 227
+            },
+            "Hasil negatif": {
+                "total": 118701,
+                "RT-PCR": 118395,
+                "TCM": 306
+            },
+            "ODP": 269449,
+            "PDP": 35069,
+            "Konfirmasi Covid-19": 17025,
+            "Kasus Sembuh": 3911,
+            "Kasus Meninggal": 1089
+        }
+    ],
+    [
+        "2020-05-17",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 61,
+            "Jumiah Laboratorium (TCM)": 10,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 187965,
+                "RT-PCR": 186985,
+                "TCM": 980
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 140473,
+                "RT-PCR": 139909,
+                "TCM": 564
+            },
+            "Hasil Positif": {
+                "total": 17514,
+                "RT-PCR": 17277,
+                "TCM": 237
+            },
+            "Hasil negatif": {
+                "total": 122959,
+                "RT-PCR": 122632,
+                "TCM": 327
+            },
+            "op": 270876,
+            "POP": 35800,
+            "Konfirmasi Covid-19": 17514,
+            "Kasus Sembuh": 4129,
+            "Kasus Meninggal": 1148
+        }
+    ],
+    [
+        "2020-05-18",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 66,
+            "Jumlah Laboratorium (TCM)": 10,
+            "Jumlah spesimen yang diperiksa*": 190660,
+            "RT-PCR": 189575,
+            "TCM": 1085,
+            "Jumlah kasus yang diperiksa spesimen": 143035,
+            "Hasil Positif": 18010,
+            "Hasil negatif": 125025,
+            "Possitive Rate": 13,
+            "ODP yang masih dipantau": 45047,
+            "PDP yang masih diawasi": 11422,
+            "Konfirmasi Covid-19": 18010,
+            "Kasus Sembuh": 4324,
+            "Kasus Meninggal": 1191,
+            "Provinsi terdampak": 34,
+            "Kab/Kota terdampak": 389
+        }
+    ],
+    [
+        "2020-05-19",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 66,
+            "Jumlah Laboratorium (TCM)": 14,
+            "Jumlah spesimen yang diperiksa*": 202936,
+            "RT-PCR": 201736,
+            "TCM": 1200,
+            "Jumlah kasus yang diperiksa spesimen": 147799,
+            "Hasil Positif": 18496,
+            "Hasil negatif": 129303,
+            "Possitive Rate": 13,
+            "ODP yang masih dipantau": 45300,
+            "PDP yang masih diawasi": 11891,
+            "Konfirmasi Covid-19": 18496,
+            "Kasus Sembuh": 4467,
+            "Kasus Meninggal": 1221,
+            "Provinsi terdampak": 34,
+            "Kab/Kota terdampak": 390
+        }
+    ],
+    [
+        "2020-05-20",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 66,
+            "Jumlah Laboratorium (TCM)": 29,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 211883,
+                "RT-PCR": 210350,
+                "TCM": 1533
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 154139,
+                "RT-PCR": 153147,
+                "TCM": 992
+            },
+            "Hasil Positif": {
+                "total": 19189,
+                "RT-PCR": 18912,
+                "TCM": 277
+            },
+            "Hasil negatif": {
+                "total": 134950,
+                "RT-PCR": 134235,
+                "TCM": 715
+            },
+            "ODP yang masih dipantau": 44703,
+            "PDP yang masih diawasi": 11705,
+            "Konfirmasi Covid-19": 19189,
+            "Kasus Sembuh": 4575,
+            "Kasus Meninggal": 1242
+        }
+    ],
+    [
+        "2020-05-21",
+        {
+            "Jumlah Laboratorium (RT-PCR)": 69,
+            "Jumlah Laboratorium (TCM)": 34,
+            "Jumlah spesimen yang diperiksa*": {
+                "total": 219975,
+                "RT-PCR": 218238,
+                "TCM": 1737
+            },
+            "Jumlah kasus yang diperiksa spesimen": {
+                "total": 160374,
+                "RT-PCR": 159246,
+                "TCM": 1128
+            },
+            "Hasil Positif": {
+                "total": 20162,
+                "RT-PCR": 19836,
+                "TCM": 326
+            },
+            "Hasil negatif": {
+                "total": 140212,
+                "RT-PCR": 139410,
+                "TCM": 802
+            },
+            "ODP yang masih dipantau": 50187,
+            "PDP yang masih diawasi": 11066,
+            "Konfirmasi Covid-19": 20161,
+            "Kasus Sembuh": 4838,
+            "Kasus Meninggal": 1278
+        }
+    ],
+    [
+        "2020-05-22",
+        {
+            "Jumlah Laboratorium Jejaring": {
+                "total": {
+                    "total": 145,
+                    "RT-PCR": 94,
+                    "TCM": 51
+                },
+                "RT-PCR": 9082,
+                "TCM": 277
+            },
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 229334,
+                "RT-PCR": 227320,
+                "TCM": 2014
+            },
+            "Jumlah orang yang diperiksa": {
+                "total": 21743,
+                "RT-PCR": 20442,
+                "TCM": 1301
+            },
+            "Hasil Positif (per hari)": {
+                "total": 634,
+                "RT-PCR": 596,
+                "TCM": 38
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 20796,
+                "RT-PCR": 20442,
+                "TCM": 354
+            },
+            "Hasil negatif (per hari)": {
+                "total": 7961,
+                "RT-PCR": 7816,
+                "TCM": 145
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 148173,
+                "RT-PCR": 147226,
+                "TCM": 947
+            },
+            "ODP yang masih dipantau": 47150,
+            "POP yang masih diawasi": 11028,
+            "Konfirmasi Covid-19": 20796,
+            "Kasus Sembuh,": 5057,
+            "Kasus Meninggal": 1326
+        }
+    ],
+    [
+        "2020-05-23",
+        {
+            "Data Covid-19 tanggal": 23,
+            "Jumlah Laboratorium RT-PCR Aktif": 85,
+            "Jumiah Laboratorium TCM Aktif": 39,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 149,
+                "RT-PCR": 98,
+                "TCM": 51
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 10617,
+                "RT-PCR": 10433,
+                "TCM": 184
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 1378,
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 239740,
+                "RT-PCR": 237542,
+                "TCM": 2198
+            },
+            "Jumlah orang yang diperiksa": {
+                "total": {
+                    "total": 176035,
+                    "RT-PCR": 174600,
+                    "TCM": 1435
+                },
+                "RT-PCR": 938,
+                "TCM": 11
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 21745,
+                "RT-PCR": 21380,
+                "TCM": 365
+            },
+            "Hasil negatif (per hari)": {
+                "total": 6117,
+                "RT-PCR": 5994,
+                "TCM": 123
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 154290,
+                "RT-PCR": 153220,
+                "TCM": 1070
+            },
+            "ODP yang masih dipantau": 49958,
+            "POP yang masih diawasi": 11495,
+            "Konfirmasi Covid-19": 22110,
+            "Kasus Sembuh": 5249,
+            "Kasus Meninggal ": 1351
+        }
+    ],
+    [
+        "2020-05-24",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 85,
+            "Jumiah Laboratorium TCM Aktif": 40,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 149,
+                "RT-PCR": 98,
+                "TCM": 51
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 11013,
+                "RT-PCR": 10872,
+                "TCM": 141
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 6312,
+            "ien yang diperiksa (kumulatif)*": 248555,
+            "246,216 spesimen": 246216,
+            "2,339 spesimen": 2339,
+            "Jumlah orang yang diperiksa": {
+                "total": 179864,
+                "RT-PCR": 178357,
+                "TCM": 1507
+            },
+            "Hasil Positif (per hari": {
+                "total": 526,
+                "RT-PCR": 512,
+                "TCM": 14
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 22271,
+                "RT-PCR": 21892,
+                "TCM": 379
+            },
+            "Hasil negatif (per hari)": {
+                "total": 3303,
+                "RT-PCR": 3245,
+                "TCM": 58
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 157593,
+                "RT-PCR": 156465,
+                "TCM": 1128
+            },
+            "ODP yang masih dipantau": 42551,
+            "POP yang masih diawasi": 11389,
+            "Konfirmasi Covid-19": 22271,
+            "Kasus Sembuh": 5402,
+            "Kasus Meninggal": 1372
+        }
+    ],
+    [
+        "2020-05-25",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 87,
+            "Jumiah Laboratorium TCM Aktif": 40,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 152,
+                "RT-PCR": 101,
+                "TCM": 51
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 4741,
+                "RT-PCR": 4560,
+                "TCM": 181
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 3650,
+            "Jumiah spesimen yang diperiksa (kumulatif)*": {
+                "total": 256946,
+                "RT-PCR": 254426,
+                "TCM": 2520
+            },
+            "Jumlah orang yang diperiksa": {
+                "total": 183192,
+                "RT-PCR": 181567,
+                "TCM": 1625
+            },
+            "Hasil Positif (per hari)": {
+                "total": 479,
+                "RT-PCR": 433,
+                "TCM": 46
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 22750,
+                "RT-PCR": 22325,
+                "TCM": 425
+            },
+            "Hasil negatif (per hari)": {
+                "total": 2849,
+                "RT-PCR": 2777,
+                "TCM": 72
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 160442,
+                "RT-PCR": 159242,
+                "TCM": 1200
+            },
+            "ODP yang masih dipantau": 49361,
+            "PDP yang masih diawasi": 12342,
+            "Konfirmasi Covid-19": 22750,
+            "Kasus Sembuh": 5642,
+            "Kasus Meninggal": 1391
+        }
+    ],
+    [
+        "2020-05-26",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 87,
+            "Jumiah Laboratorium TCM Aktif": 42,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 152,
+                "RT-PCR": 101,
+                "TCM": 51
+            },
+            "Jumiah spesimen yang diperiksa (per hari)": {
+                "total": 7152,
+                "RT-PCR": 6917,
+                "TCM": 235
+            },
+            "Jumiah spesimen dalam verifikasi (per hari)": 6059,
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 264098,
+                "RT-PCR": 261343,
+                "TCM": 2755
+            },
+            "Jumlah orang yang diperiksa": {
+                "total": 188302,
+                "RT-PCR": 186513,
+                "TCM": 1789
+            },
+            "Hasil Positif (per hari)": {
+                "total": 415,
+                "RT-PCR": 385,
+                "TCM": 30
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 23165,
+                "RT-PCR": 22710,
+                "TCM": 455
+            },
+            "Hasil negatif (per hari)": {
+                "total": 4695,
+                "RT-PCR": 4561,
+                "TCM": 134
+            },
+            "Hasil negatif (kumulatif": {
+                "total": 165137,
+                "RT-PCR": 163803,
+                "TCM": 1334
+            },
+            "ODP yang masih dipantau": 65748,
+            "PDP yang masih diawasi": 12022,
+            "Konfirmasi Covid-19": 23165,
+            "Kasus Sembuh,": 5877,
+            "Kasus Meninggal": 1418
+        }
+    ],
+    [
+        "2020-05-27",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 87,
+            "Jumlah Laboratorium TCM Aktif": 48,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 167,
+                "RT-PCR": 116,
+                "TCM": 51
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 14313,
+                "RT-PCR": 14034,
+                "TCM": 279
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 8396,
+            "Jumiah spesimen yang diperiksa (kumulatif)*": {
+                "total": 278411,
+                "RT-PCR": 275377,
+                "TCM": 3034
+            },
+            "Jumlah orang yang diperiksa": {
+                "total": 195518,
+                "RT-PCR": 193508,
+                "TCM": 2010
+            },
+            "686 orang": 686,
+            "642 orang": 642,
+            "44 orang": 44,
+            "Hasil Positif (kumulatif)": {
+                "total": 23851,
+                "RT-PCR": 23352,
+                "TCM": 499
+            },
+            "Hasil negatif (per hari)": {
+                "total": 6530,
+                "RT-PCR": 6353,
+                "TCM": 177
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 171667,
+                "RT-PCR": 170156,
+                "TCM": 1511
+            },
+            "[a ODP yang masih dipantau 49,942  orang": 49942,
+            "POP yang masih diawasi": 12667,
+            "Konfirmasi Covid-19": 23851,
+            "Kass Sembuh": 6057
+        }
+    ],
+    [
+        "2020-05-28",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 87,
+            "Jumlah Laboratorium TCM Aktif": 50,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 167,
+                "RT-PCR": 116,
+                "TCM": 51
+            },
+            "Jumiah spesimen yang diperiksa (per hari)": {
+                "total": 11495,
+                "RT-PCR": 11193,
+                "TCM": 3336
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 9768,
+            "iksa (kumulatif)*": 289906,
+            "286,570 spesimen": 286570,
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 5793,
+                "RT-PCR": 5595,
+                "TCM": 198
+            },
+            "Jumlah orang yang diperiksa (kumulatif)": {
+                "total": 201311,
+                "RT-PCR": 199103,
+                "TCM": 2208
+            },
+            "Hasil Positif (per hari)": {
+                "total": 687,
+                "RT-PCR": 662,
+                "TCM": 25
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 24538,
+                "RT-PCR": 24014,
+                "TCM": 524
+            },
+            "Hasil negatif (per hari)": {
+                "total": 5106,
+                "RT-PCR": 4933,
+                "TCM": 173
+            },
+            "[ Hasil negatif (kumulatif)": {
+                "total": 176773,
+                "RT-PCR": 175089,
+                "TCM": 1684
+            },
+            "ODP yang masih dipantau": 48749,
+            "POP yang masih diawasi": 13250,
+            "Konfirmasi Covid-19": 24538,
+            "Kasus Sembuh": 6240,
+            "Kasus Meninggal": 1496
+        }
+    ],
+    [
+        "2020-05-29",
+        {
+            "Jumiah Laboratorium TCM Aktif": 53,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 173,
+                "RT-PCR": 120,
+                "TCM": 53
+            },
+            "Jumiah spesimen yang diperiksa (per hari)": {
+                "total": {
+                    "total": 10639,
+                    "RT-PCR": 10121,
+                    "TCM": 518
+                },
+                "RT-PCR": 296691,
+                "TCM": 3854
+            },
+            "fe. Jumiah spesimen dalam v": 1002,
+            "f. Jumiah spesimen yang di": 300545,
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 3854,
+                "RT-PCR": 3482,
+                "TCM": 372
+            },
+            "Jumlah orang yang diperiksa (kumulatif)": {
+                "total": 205165,
+                "RT-PCR": 202585,
+                "TCM": 2580
+            },
+            "Hasil Positif (per hari)": {
+                "total": 678,
+                "RT-PCR": 639,
+                "TCM": 39
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 25216,
+                "RT-PCR": 24653,
+                "TCM": 563
+            },
+            "Hasil negatif (per hari)": {
+                "total": 3176,
+                "RT-PCR": 2843,
+                "TCM": 333
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 179949,
+                "RT-PCR": 177932,
+                "TCM": 2017
+            },
+            "ODP yang masih dipantau": 49212,
+            "POP yang masih diawasi": 12499,
+            "Konfirmasi Covid-19": 25216,
+            "Kasus Sembuh": 6492,
+            "Kasus Meninggal": 1520
+        }
+    ],
+    [
+        "2020-05-30",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 91,
+            "Jumlah Laboratorium TCM Aktif": 54,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 174,
+                "RT-PCR": 120,
+                "TCM": 54
+            },
+            "Jumiah spesimen yang diperiksa (per hari)": {
+                "total": 11361,
+                "RT-PCR": 11092,
+                "TCM": 269
+            },
+            "Jumiah spesimen dalam verifikasi (per hari)": 2935,
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 311906,
+                "RT-PCR": 307783,
+                "TCM": 4123
+            },
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 11604,
+                "RT-PCR": 11423,
+                "TCM": 181
+            },
+            "Jumiah orang yang diperiksa (kumulatif)": {
+                "total": 216769,
+                "RT-PCR": 214008,
+                "TCM": 2761
+            },
+            "Hasil Positif (per hari)": {
+                "total": 557,
+                "RT-PCR": 536,
+                "TCM": 21
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 25773,
+                "RT-PCR": 25189,
+                "TCM": 584
+            },
+            "Hasil negatif (per hari)": {
+                "total": 11047,
+                "RT-PCR": 10887,
+                "TCM": 160
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 190996,
+                "RT-PCR": 188819,
+                "TCM": 2177
+            },
+            "ODP yang masih dipantau": 47714,
+            "PDP yang masih diawasi": 12832,
+            "Konfirmasi Covid-19": 25773,
+            "Kasus Sembuh": 7015,
+            "Kasus Meninggal": 1573
+        }
+    ],
+    [
+        "2020-05-31",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 91,
+            "Jumlah Laboratorium TCM Aktif": 57,
+            "Jumlah Laboratorium Jejaring": {
+                "total": 177,
+                "RT-PCR": 120,
+                "TCM": 57
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 11470,
+                "RT-PCR": 11303,
+                "TCM": 167
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 1455,
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 323376,
+                "RT-PCR": 319086,
+                "TCM": 4290
+            },
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 6855,
+                "RT-PCR": 6755,
+                "TCM": 100
+            },
+            "Jumlah orang yang diperiksa (kumulatif)": {
+                "total": 223624,
+                "RT-PCR": 220763,
+                "TCM": 2861
+            },
+            "Hasil Positif (per hari)": {
+                "total": 700,
+                "RT-PCR": 660,
+                "TCM": 40
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 26473,
+                "RT-PCR": 25849,
+                "TCM": 624
+            },
+            "Hasil negatif (per hari)": {
+                "total": 6155,
+                "RT-PCR": 6095,
+                "TCM": 60
+            },
+            "I Hasil negatif (kumulatif)": {
+                "total": 197151,
+                "RT-PCR": 194914,
+                "TCM": 2237
+            },
+            "ODP yang masih dipantau": 49936,
+            "PDP yang masih diawasi": 12913,
+            "Konfirmasi Covid-19": 26473,
+            "Kasus Sembuh": 7308,
+            "Kasus Meninggal": 1613
+        }
+    ],
+    [
+        "2020-06-01",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 95,
+            "Jumlah Laboratorium TCM Aktif": 59,
+            "\u00a2.Jumlah Laboratorium Jejaring": {
+                "total": 179,
+                "RT-PCR": 120,
+                "TCM": 59
+            },
+            "Jumlah spesimen yang diperiksa (per hari)": {
+                "total": 10039,
+                "RT-PCR": 9891,
+                "TCM": 148
+            },
+            "Jumlah spesimen dalam verifikasi (per hari)": 6525,
+            "Jumlah spesimen yang diperiksa (kumulatif)*": {
+                "total": 333415,
+                "RT-PCR": 328977,
+                "TCM": 4438
+            },
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 8489,
+                "RT-PCR": 8374,
+                "TCM": 115
+            },
+            "Jumlah orang yang diperiksa (kumulatif)": {
+                "total": 232113,
+                "RT-PCR": 229137,
+                "TCM": 2976
+            },
+            "Hasil Positif (per hari)": {
+                "total": 467,
+                "RT-PCR": 435,
+                "TCM": 32
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 26940,
+                "RT-PCR": 26284,
+                "TCM": 656
+            },
+            "Hasil negatif (per hari)": {
+                "total": 8022,
+                "RT-PCR": 7939,
+                "TCM": 83
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 205173,
+                "RT-PCR": 202853,
+                "TCM": 2320
+            },
+            "ODP yang masih dipantau": 48358,
+            "PDP yang masih diawasi": 13120,
+            "Konfirmasi Covid-19": 26940,
+            "Kasus Sembuh": 7637,
+            "Kasus Meninggal": 1641
+        }
+    ],
+    [
+        "2020-06-02",
+        {
+            "Jumlah Laboratorium RT-PCR Aktif": 95,
+            "Jumlah Laboratorium TCM Aktif": 60,
+            "Jumiah Laboratorium Jejaring": {
+                "total": 180,
+                "RT-PCR": 120,
+                "TCM": 60
+            },
+            "Jumlah spesimen yang selesai diperiksa (per hari)": {
+                "total": 9089,
+                "RT-PCR": 8790,
+                "TCM": 259
+            },
+            "Jumlah spesimen yang belum selesai/verifikasi (per hari)": 1143,
+            "Jumlah spesimen yang selesai diperiksa (kumulatif)*": {
+                "total": 342464,
+                "RT-PCR": 337767,
+                "TCM": 4697
+            },
+            "Jumlah orang yang diperiksa (per hari)": {
+                "total": 5834,
+                "RT-PCR": 5676,
+                "TCM": 158
+            },
+            "Jumlah orang yang diperiksa (kumulatif)": {
+                "total": 237947,
+                "RT-PCR": 234813,
+                "TCM": 3134
+            },
+            "Hasil Positif (per hari)": {
+                "total": 609,
+                "RT-PCR": 584,
+                "TCM": 25
+            },
+            "Hasil Positif (kumulatif)": {
+                "total": 27549,
+                "RT-PCR": 26868,
+                "TCM": 681
+            },
+            "Hasil negatif (per hari)": {
+                "total": 5225,
+                "RT-PCR": 5092,
+                "TCM": 133
+            },
+            "Hasil negatif (kumulatif)": {
+                "total": 210398,
+                "RT-PCR": 207945,
+                "TCM": 2453
+            },
+            "ODP yang masih dipantau": 48023,
+            "POP yang masih diawasi": 13213,
+            "Konfirmasi Covid-19": 27549,
+            "Kasus Sembuh": 7935,
+            "Kasus Meninggal": 1663
+        }
+    ]
+]
