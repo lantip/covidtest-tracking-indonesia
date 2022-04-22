@@ -45,7 +45,7 @@ pycparser==2.20
 pycryptodome==3.9.7
 Pygments==2.6.1
 pyparsing==2.4.7
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 PySocks==1.7.1
 pytesseract==0.2.6
 pytextractor==0.7
